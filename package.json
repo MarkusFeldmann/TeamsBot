@@ -10,12 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/charlesprakash/msteams-nodejs-hello-world.git"
   },
-  "author": "charlesprakash",
+  "author": "MarkusFeldmann",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/charlesprakash/msteams-nodejs-hello-world/issues"
+    "url": "https://github.com/MarkusFeldmann/TeamsBot/issues"
   },
-  "homepage": "https://github.com/charlesprakash/msteams-nodejs-hello-world#readme",
+  "homepage": "https://github.com/MarkusFeldmann/TeamsBot#readme",
   "dependencies": {
     "botbuilder": "^3.11.0",
     "botbuilder-teams": "^0.1.6",
